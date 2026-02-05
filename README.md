@@ -4,3 +4,5 @@ The app was built using HTML for structure, CSS for design, and JavaScript for i
 
 how it works;
 Enter task and add it to the list, you have the option to view all your tasks you just the complete or the incomplete one then at any point you can delete the tasks.
+
+the website url : https://mmugeni.github.io/task-manager/
